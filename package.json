@@ -1,0 +1,19 @@
+{
+  "name": "filmers.shop",
+  "version": "1.0.0",
+  "description": "The goal of this repository is to create a successful AWS Website that uses the Amazon Product API, integrated with AWS, to create a dynamic website that lists items of a specific (film) category, if and only if they are on sale. This is outside the parameters of the PAAPI, so at this time I'm unsure if I'll be able to get it to work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnultycollin/filmers.shop.git"
+  },
+  "author": "Collin McNulty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcnultycollin/filmers.shop/issues"
+  },
+  "homepage": "https://github.com/mcnultycollin/filmers.shop#readme"
+}
